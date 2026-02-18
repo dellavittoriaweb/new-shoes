@@ -1,0 +1,101 @@
+body{
+    background-color: #f5f5dc;
+}
+h1{
+    font-family: Georgia, serif;
+    font-size: 42px;
+    text-align: center;
+    color: #ff0000;
+    border-style: solid;
+    border-color: brown;
+    border-width: 2px;
+    border-radius: 12px;
+    padding: 5px;
+}
+h2{
+    font-family: Georgia, serif;
+    font-size: 30px;
+    color: #000000;
+}
+h3{
+    font-family: Georgia, serif;
+    font-size: 24px;
+    color: #a52a2a;
+}
+h4{
+    font-family: Lucida Handwriting, Brush Script MT, cursive;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: 50px;
+}
+table, th, td{
+    font-family: Georgia;
+    font-size: 18px;
+    color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    border-color:#000000;
+}
+table{
+    margin-bottom: 50px;
+}
+.paragrafo{
+    font-family: Georgia;
+    font-size: 18px;
+    color: #000000;
+}
+nav{
+    border-style: double;
+    border-width: 5px;
+    border-color: #2a5ba5;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+a{
+    margin: 60px;
+    padding: 55px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.slogan{
+    font-family: Georgia;
+    font-size: 18px;
+    color: #000000;
+    text-decoration: underline;
+    font-style: italic;
+}
+#fraselazza{
+    font-family: Georgia;
+    font-size: 18px;
+    color: #000000;
+    font-style: oblique;
+}
+footer{
+    font-family: Arial;
+    font-size: 18px;
+    color: #ffffff;
+    background-color:#2a5ba5;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+.nome{
+    font-family: Georgia;
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+}
+#informazione{
+    font-family: Georgia;
+    font-size: 20px;
+    color:#2a5ba5;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.contatti{
+    font-family: Papyrus;
+    font-size: 20px;
+    color: #000000;
+}
